@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/iamvivek888" target="blank"><img src="https://img.shields.io/twitter/follow/iamvivek888?logo=twitter&style=for-the-badge" alt="iamvivek888" /></a> </p>
 
-- 🔭 I’m currently working on [MonetizeURL - A Money Generator by Shortning URL's](https://monetizeurl.in)
+- 🔭 I’m currently working on [MonetizeURL - A Money Generator by Shortning URL's](https://monetizeurl.com)
 
 - 🌱 I’m currently learning **Full Stack Web Development - NextJS**
 
