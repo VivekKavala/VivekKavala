@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development - NextJS**
 
-- 📝 I regularly write articles on [https://CryptoLib.in](https://cryptolib.in)
+- 📝 I regularly write articles on [CryptoLib.in](https://cryptolib.in), [Animedb.in](https://animedb.in) and [Last24hrnews.com](https://last24hrnews.com)
 
 - 💬 Ask me about **Python, Javascript, JAVA**
 
