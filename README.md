@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vivek Kavala</h1>
 <h3 align="center">A passionate Full Stack developer and Software Dev from India</h3>
+<p>Do work manually for 1 hour ❌ Automate in 10 hours ✅</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VivekKavala&label=Profile%20views&color=0e75b6&style=flat" alt="VivekKavala" /> </p>
 
