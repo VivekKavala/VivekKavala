@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development - NextJS**
 
-- 📝 I regularly write articles on [CryptoLib.in](https://cryptolib.in), [Animedb.in](https://animedb.in) and [Last24hrnews.com](https://last24hrnews.com)
+- 📝 I regularly write articles on [Wealthmist.com](https://wealthmist.com), [Animedb.in](https://animedb.in) and [MonetizeURL.com](https://monetizeurl.com)
 
 - 💬 Ask me about **Python, Javascript, JAVA**
 
